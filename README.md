@@ -1,14 +1,22 @@
-Web 1920 – 4
+
 🏥Hospitals' Health-Care Data
+
 TECHNOLOGY : Data Analytics
+
 TEAM ID : PNT2022TMID50250
 
 👨‍👩‍👦TEAM MEMBERS
+
 Rajalingam s (TL)
+
 Parvin kumar c
+
 Sujithiraj
+
 Muthuselvem c
+
 📒PROJECT DESCRIPTION:
+
 Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare
 
 Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
@@ -20,5 +28,3 @@ Suppose you have been hired as Data Scientist of Health Man – a not for profit
 📖Goal:
 The goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 
-👨‍💻Technical Architecture:
-download
